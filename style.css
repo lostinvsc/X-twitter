@@ -558,10 +558,6 @@ video {
   position: fixed;
 }
 
-.absolute {
-  position: absolute;
-}
-
 .relative {
   position: relative;
 }
@@ -662,10 +658,6 @@ video {
   height: 70px;
 }
 
-.h-\[1\] {
-  height: 1;
-}
-
 .w-8 {
   width: 2rem;
 }
@@ -720,10 +712,6 @@ video {
 
 .w-\[95\%\] {
   width: 95%;
-}
-
-.w-\[\] {
-  width: ;
 }
 
 .min-w-\[315px\] {
@@ -805,16 +793,8 @@ video {
   row-gap: 1.25rem;
 }
 
-.overflow-auto {
-  overflow: auto;
-}
-
 .overflow-scroll {
   overflow: scroll;
-}
-
-.overflow-y-auto {
-  overflow-y: auto;
 }
 
 .overflow-y-scroll {
